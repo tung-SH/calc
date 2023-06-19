@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "cc85e60ec08979cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preliminary Specification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d532b3882c855b1",
             "type": "leaf",
             "state": {
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,6 +157,8 @@
   },
   "active": "5d532b3882c855b1",
   "lastOpenFiles": [
+    "Specification.pdf",
+    "README.md",
     "Test plan.pdf",
     "main.exe",
     "Preliminary Specification.md",
